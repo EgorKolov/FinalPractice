@@ -14,6 +14,8 @@
 3. База данных SQLite была создана с помощью приложения SQLiteStudio (https://sqlitestudio.pl/).
 4. Результаты работы:
     * Задача №1
-    * ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Task_1.png)
+    
+    ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Task_1.png)
     * Задачи №2 и №3
-    * ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Task_2_3.png)
+    
+    ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Task_2_3.png)
