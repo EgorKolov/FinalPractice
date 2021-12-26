@@ -18,4 +18,4 @@
     ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Task_1.png)
     * Задачи №2 и №3
     
-    ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Task_2_3.png)
+    ![Image alt](https://github.com/EgorKolov/FinalPractice/blob/master/Tasks_2_3.png)
